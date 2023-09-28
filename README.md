@@ -13,7 +13,7 @@
 ![](assets/warhammer40-warhameer.gif)
 ![](assets/access-denied-warhammer40k.gif)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uruskan&hide_progress=true)
+
 
 
 <!--
