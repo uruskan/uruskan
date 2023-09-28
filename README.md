@@ -10,7 +10,7 @@
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/upiynar/">Linkedin<a/>
 
-<div class="tenor-gif-embed" data-postid="18486442" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/access-denied-warhammer40k-gif-18486442">Access Denied Warhammer40k GIF</a>from <a href="https://tenor.com/search/access+denied-gifs">Access Denied GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 
 <!--
