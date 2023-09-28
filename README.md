@@ -1,7 +1,14 @@
 ### Hi there 👋
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72E4E&width=435&lines=Umut+Piynar+AKA+Uruskan)](https://git.io/typing-svg)
+
+
 ![tryhackme stats](https://raw.githubusercontent.com/uruskan/uruskan/master/assets/thm_propic.png)
+
+
 ⚡ Fun fact: I have been doing this since I was 13yo.
+
+
 📫 How to reach me: <a href="">Linkedin<a/>
 
 
