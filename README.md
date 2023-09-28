@@ -8,8 +8,7 @@
 
 ⚡ Fun fact: I have been doing this since I was 13yo.
 
-
-📫 How to reach me: <a href="">Linkedin<a/>
+📫 How to reach me: <a href="https://www.linkedin.com/in/upiynar/">Linkedin<a/>
 
 
 <!--
