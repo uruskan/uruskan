@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![tryhackme stats](https://raw.githubusercontent.com/uruskan/uruskan/master/assets/thm_propic.png)
 <!--
 **uruskan/uruskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
