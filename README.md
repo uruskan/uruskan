@@ -6,7 +6,7 @@
 
 
 
-⚡ Fun fact: I have been doing this since I was 13yo.
+⚡ Average Tech Priest
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/upiynar/">Linkedin<a/>
 
