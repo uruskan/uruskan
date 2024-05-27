@@ -1,5 +1,5 @@
 ### Welcome to my profile, I know its way too long but its what it is 👋
-### If you are here as a recruiter please watch this first / Eğer İnsan Kaynakları ya da İş Görüşmesi İncelemesi İçin Buradaysanız Öncelikle Bu Videoyu İzleyin, Boşuna Vakit Kaybetmeyelim.
+### If you are here as a recruiter please watch this first / Aşağıdaki video günümüz yazılım dünyası hakkındaki görüşlerimi içermektedir.
 
 [![Watch the video/Videoyu İzle]](https://youtu.be/-_o4YFFD6is)
 
