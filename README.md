@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72E4E&width=435&lines=Umut+Piynar+AKA+Uruskan)](https://git.io/typing-svg)
 
-⚡ Master Technologist | Cybersecurity Expert | Full-Stack Developer | Game Development Wizard | Cross-Platform Innovator | SEO Maestro
+⚡ Average Tech Priest
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/upiynar/)
 📫 Discord: uruskan.
