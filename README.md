@@ -81,7 +81,7 @@
   <img width="12" />
   <img src="https://www.redhat.com/rhdc/managed-files/rhb-logos-red_hat_logo-hero_image_3.svg" height="40" alt="redhat logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/apple_original_logo_icon_146637.png" height="40" alt="apple logo"  />
   <img width="12" />
   <img src="https://banner2.cleanpng.com/20180408/xlw/kisspng-ubuntu-linux-distribution-long-term-support-canoni-linux-5aca4e1926d683.7524108215232077051591.jpg" height="40" alt="ubuntu logo"  />
   <img width="12" />
