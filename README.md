@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72E4E&width=435&lines=Umut+Piynar+AKA+Uruskan)](https://git.io/typing-svg)
 
-⚡ Average Tech Priest
+⚡ Master Technologist | Cybersecurity Expert | Full-Stack Developer | Game Development Wizard | Cross-Platform Innovator | SEO Maestro
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/upiynar/)
 📫 Discord: uruskan.
@@ -31,6 +31,9 @@ My frontend expertise spans creating seamless and dynamic user experiences using
 - **Bootstrap**
 - **CSS3**
 - **HTML5**
+- **TypeScript**
+- **Vue.js**
+- **Angular**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
@@ -48,6 +51,12 @@ My frontend expertise spans creating seamless and dynamic user experiences using
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
 </div>
 
 ---
@@ -63,6 +72,10 @@ In the backend domain, I excel in building highly scalable, secure, and efficien
 - **Python**
 - **Go**
 - **Rust**
+- **Java**
+- **Spring Boot**
+- **Ruby on Rails**
+- **PHP**
 
 <div align="left">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" height="40" alt="Node.js" />
@@ -76,6 +89,14 @@ In the backend domain, I excel in building highly scalable, secure, and efficien
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="Rust" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="Ruby on Rails" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
 </div>
 
 ---
@@ -90,6 +111,8 @@ My experience with databases spans SQL and NoSQL systems, enabling me to design 
 - **MySQL**
 - **PostgreSQL**
 - **Redis**
+- **Elasticsearch**
+- **Cassandra**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
@@ -101,6 +124,10 @@ My experience with databases spans SQL and NoSQL systems, enabling me to design 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="Elasticsearch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" height="40" alt="Cassandra" />
 </div>
 
 ---
@@ -117,6 +144,9 @@ From managing enterprise-grade Linux servers to developing cross-platform applic
 - **Ubuntu**
 - **Arch Linux**
 - **Windows**
+- **Debian**
+- **Fedora**
+- **Kali Linux**
 
 <div align="left">
   <img src="https://global.discourse-cdn.com/business7/uploads/rockylinux/original/1X/3f31c1373abef5e09699b1bbc53a721229529b8d.png" height="40" alt="Rocky Linux" />
@@ -132,43 +162,12 @@ From managing enterprise-grade Linux servers to developing cross-platform applic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="Arch Linux" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
-</div>
-
----
-
-## 💻 Programming Languages
-
-### Expertise in a Multitude of Programming Paradigms
-My programming experience encompasses a wide array of languages, each mastered to deliver high-quality, efficient solutions. From system programming and embedded systems to web and mobile app development, my skills span the full technology stack.
-
-- **C**
-- **C++**
-- **Python**
-- **C#**
-- **Java**
-- **PHP**
-- **JavaScript**
-- **Bash**
-- **Assembly**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Debian" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="Fedora" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" height="40" alt="Assembly" />
+  <img src="https://www.kali.org/images/kali-dragon-icon.svg" height="40" alt="Kali Linux" />
 </div>
 
 ---
@@ -176,17 +175,25 @@ My programming experience encompasses a wide array of languages, each mastered t
 ## 🔧 Tools and Technologies
 
 ### A Comprehensive Arsenal for Development and Innovation
-From development tools and frameworks to hacking and reverse engineering utilities, I possess a vast toolkit to tackle any technological challenge. My expertise ensures efficient, secure, and innovative solutions across diverse domains.
+My toolkit is expansive, encompassing a wide range of tools and technologies that enable me to deliver cutting-edge solutions. From version control and containerization to continuous integration and deployment, I leverage the best tools to streamline development and ensure high-quality results.
 
-- **Development Tools**: Git, Docker, Kubernetes, Jenkins, Ansible
-- **Game Development**: Unity, Unreal Engine, Blender, Sprite Animation
-- **Hacking and Security**: Nmap, Metasploit, Wireshark, Tor, Reverse Shells, Persistent Backdoors
-- **Cross-Platform Development**: Tauri, React Native, Flutter, V-Play (Felgo)
-- **Embedded Systems**: Arduino, Raspberry Pi, PIC16F84, Low-Level Programming, Custom Library Development
+- **Version Control**: Git, SVN
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: Jenkins, Travis CI, CircleCI, GitHub Actions
+- **Configuration Management**: Ansible, Puppet, Chef
+- **Virtualization**: Vagrant, VMware, VirtualBox
+- **Monitoring and Logging**: ELK Stack, Prometheus, Grafana
+- **APIs and Web Services**: REST, GraphQL, gRPC, SOAP
+- **Networking**: TCP/IP, DNS, DHCP, Load Balancers, Firewalls
+- **Cloud Platforms**: AWS, Azure, Google Cloud, DigitalOcean, Heroku
+- **Blockchain**: Ethereum, Solidity, Hyperledger
+- **AI and Machine Learning**: TensorFlow, Keras, PyTorch, scikit-learn
+- **Quantum Computing**: Qiskit, Microsoft Quantum Development Kit
+- **IoT**: MQTT, CoAP, Zigbee, Z-Wave
 
 ---
 
-## 🌟 Accomplishments and Projects
+## 🚀 Accomplishments and Projects
 
 ### Innovations that Drive Impact
 Throughout my career, I have been involved in numerous high-impact projects, demonstrating my ability to leverage technology for tangible results. From developing secure, high-performance applications to pioneering new approaches in game development and cybersecurity, my work speaks for itself.
@@ -195,6 +202,8 @@ Throughout my career, I have been involved in numerous high-impact projects, dem
 - **Cybersecurity**: Led comprehensive security assessments and implemented advanced measures to protect high-traffic web applications, ensuring robust defense against potential threats.
 - **Cross-Platform Applications**: Designed and built cross-platform applications with Tauri and Rust, delivering fast, efficient, and user-friendly solutions for diverse platforms.
 - **SEO and Performance Optimization**: Expertise in creating highly optimized web applications, leveraging sitemaps, OpenGraph, Google Video Sitemap, SCHEMA markup, and rich JSON-LD for exceptional SEO performance and web traffic management.
+- **AI and Machine Learning Projects**: Implemented predictive models and intelligent systems, enhancing decision-making processes and automating complex tasks across various industries.
+- **Blockchain Solutions**: Developed decentralized applications (dApps) and smart contracts, leveraging blockchain technology for secure and transparent solutions.
 
 ---
 
