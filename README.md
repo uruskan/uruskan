@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
+  <img src="https://laravel.com/img/logotype.min.svg" height="40" alt="laravel logo"  />
 </div>
 
 ###
@@ -77,7 +77,7 @@
 <div align="left">
   <img src="https://global.discourse-cdn.com/business7/uploads/rockylinux/original/1X/3f31c1373abef5e09699b1bbc53a721229529b8d.png" height="40" alt="rockylinux logo"  />
   <img width="12" />
-  <img src="https://centos.org/assets/img/logo.png" height="40" alt="centos logo"  />
+  <img src="https://1000logos.net/wp-content/uploads/2023/04/CentOS-logo-768x432.png" height="40" alt="centos logo"  />
   <img width="12" />
   <img src="https://www.redhat.com/rhdc/managed-files/rhb-logos-red_hat_logo-hero_image_3.svg" height="40" alt="redhat logo"  />
   <img width="12" />
