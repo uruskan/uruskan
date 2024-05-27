@@ -392,66 +392,67 @@ My deep expertise in cybersecurity and ethical hacking ensures the integrity, co
 - **Exploitation**: Custom Exploits, Buffer Overflows, SQL Injection, XSS, CSRF
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" height="40" alt="Metasploit" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/metasploit/metasploit-original.svg" height="40" alt="Metasploit" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg" height="40" alt="Burp Suite" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/burpsuite/burpsuite-original.svg" height="40" alt="Burp Suite" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/owasp/owasp-original.svg" height="40" alt="OWASP ZAP" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/owasp/owasp-original.svg" height="40" alt="OWASP ZAP" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nessus/nessus-original.svg" height="40" alt="Nessus" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/nessus/nessus-original.svg" height="40" alt="Nessus" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" height="40" alt="Nmap" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/nmap/nmap-original.svg" height="40" alt="Nmap" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="40" alt="Wireshark" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/wireshark/wireshark-original.svg" height="40" alt="Wireshark" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snort/snort-original.svg" height="40" alt="Snort" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/snort/snort-original.svg" height="40" alt="Snort" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/suricata/suricata-original.svg" height="40" alt="Suricata" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/suricata/suricata-original.svg" height="40" alt="Suricata" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rsa/rsa-original.svg" height="40" alt="RSA" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/rsa/rsa-original.svg" height="40" alt="RSA" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aes/aes-original.svg" height="40" alt="AES" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/aes/aes-original.svg" height="40" alt="AES" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sha/sha-original.svg" height="40" alt="SHA" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/sha/sha-original.svg" height="40" alt="SHA" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pgp/pgp-original.svg" height="40" alt="PGP" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/pgp/pgp-original.svg" height="40" alt="PGP" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gpg/gpg-original.svg" height="40" alt="GPG" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/gpg/gpg-original.svg" height="40" alt="GPG" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/volatility/volatility-original.svg" height="40" alt="Volatility" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/volatility/volatility-original.svg" height="40" alt="Volatility" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autopsy/autopsy-original.svg" height="40" alt="Autopsy" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/autopsy/autopsy-original.svg" height="40" alt="Autopsy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sleuthkit/sleuthkit-original.svg" height="40" alt="Sleuth Kit" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/sleuthkit/sleuthkit-original.svg" height="40" alt="Sleuth Kit" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/idapro/idapro-original.svg" height="40" alt="IDA Pro" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/idapro/idapro-original.svg" height="40" alt="IDA Pro" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ghidra/ghidra-original.svg" height="40" alt="Ghidra" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/ghidra/ghidra-original.svg" height="40" alt="Ghidra" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/radare2/radare2-original.svg" height="40" alt="Radare2" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/radare2/radare2-original.svg" height="40" alt="Radare2" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/binaryninja/binaryninja-original.svg" height="40" alt="Binary Ninja" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/binaryninja/binaryninja-original.svg" height="40" alt="Binary Ninja" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/siem/siem-original.svg" height="40" alt="SIEM" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/siem/siem-original.svg" height="40" alt="SIEM" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/soar/soar-original.svg" height="40" alt="SOAR" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/soar/soar-original.svg" height="40" alt="SOAR" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" height="40" alt="Splunk" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/splunk/splunk-original.svg" height="40" alt="Splunk" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elk/elk-original.svg" height="40" alt="ELK Stack" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/elk/elk-original.svg" height="40" alt="ELK Stack" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/set/set-original.svg" height="40" alt="SET" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/set/set-original.svg" height="40" alt="SET" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maltego/maltego-original.svg" height="40" alt="Maltego" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/maltego/maltego-original.svg" height="40" alt="Maltego" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/beef/beef-original.svg" height="40" alt="BeEF" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/beef/beef-original.svg" height="40" alt="BeEF" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tor/tor-original.svg" height="40" alt="Tor" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/tor/tor-original.svg" height="40" alt="Tor" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/i2p/i2p-original.svg" height="40" alt="I2P" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/i2p/i2p-original.svg" height="40" alt="I2P" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vpn/vpn-original.svg" height="40" alt="VPNs" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/vpn/vpn-original.svg" height="40" alt="VPNs" />
 </div>
+
 
 ---
 
