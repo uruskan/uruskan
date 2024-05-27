@@ -45,7 +45,7 @@
 <div align="left">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://i0.wp.com/iotbyhvm.ooo/wp-content/uploads/2019/01/expressjs.png?fit=872%2C472&ssl=1" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://laravel.com/img/logotype.min.svg" height="40" alt="laravel logo"  />
 </div>
