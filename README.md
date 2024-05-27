@@ -1,7 +1,7 @@
 ### Welcome to my profile, I know its way too long but its what it is 👋
 ### If you are here as a recruiter please watch this first / Eğer İnsan Kaynakları ya da İş Görüşmesi İncelemesi İçin Buradaysanız Öncelikle Bu Videoyu İzleyin, Boşuna Vakit Kaybetmeyelim.
 
-[![Watch the video/Videoyu İzle]()](https://youtu.be/-_o4YFFD6is)
+[![Watch the video/Videoyu İzle]](https://youtu.be/-_o4YFFD6is)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72E4E&width=435&lines=Umut+Piynar+AKA+Uruskan)](https://git.io/typing-svg)
 
