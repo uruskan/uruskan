@@ -190,6 +190,9 @@ My toolkit is expansive, encompassing a wide range of tools and technologies tha
 - **AI and Machine Learning**: TensorFlow, Keras, PyTorch, scikit-learn
 - **Quantum Computing**: Qiskit, Microsoft Quantum Development Kit
 - **IoT**: MQTT, CoAP, Zigbee, Z-Wave
+- **Cyber Security**: Nmap, Metasploit, Wireshark, Tor, Reverse Shells, Persistent Backdoors
+- **Cross-Platform Development**: Tauri, React Native, Flutter, V-Play (Felgo)
+- **Embedded Systems**: Arduino, Raspberry Pi, PIC16F84, Low-Level Embedded Systems Programming, Custom Library Development for Embedded Systems and IOT.
 
 ---
 
