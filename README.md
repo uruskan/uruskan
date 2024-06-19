@@ -1,24 +1,9 @@
-### Welcome to my profile / Profilime hoşgeldiniz 👋
-[![Watch the video/Videoyu İzle]](https://youtu.be/-_o4YFFD6is)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72E4E&width=435&lines=Umut+Piynar+AKA+Uruskan)](https://git.io/typing-svg)
-
-⚡ Average Tech Priest
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uruskan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/upiynar/)
 📫 Discord: uruskan.
 📫 E-Mail: auruskan@outlook.com
-
-![Warhammer GIF](assets/warhammer40-warhameer.gif)
-![Access Denied GIF](assets/access-denied-warhammer40k.gif)
-
----
-
-## 📝 About Me
-
-I have started my tech journey from the young age of 13. As a youngster living in a power plant my only friends were electrical engineers and my toys were pcbs. My experience is as diverse as it goes, I am still trying to be the best at whatever takes my interest. I am also a very competitive enduro rider, dota player and a powerlifter -better way to say fat lmao-. I use arch btw.
 
 ---
 
@@ -490,8 +475,6 @@ My commitment to continuous learning and improvement has led me to explore a wid
 </div>
 
 ---
-
-**Fun Fact**: I have been involved in the tech world since I was 13, continuously learning and pushing the boundaries of what is possible.
 
 *https://uruskan.itch.io/planet
 
