@@ -15,12 +15,6 @@ Passionate about crafting secure, scalable, and innovative tech solutions. I com
 
 ---
 
-## 🔥 Current Projects
-
-* 📱 **Bitir**: A sustainability-driven app aimed at reducing food waste through surprise bags and discounted items.
-* ☕ **SayNDone**: AI-powered restaurant & café management system for streamlined operations.
-* 🎮 **Next Tube**: Ultra-fast SEO-compliant video streaming platform.
-* 🤖 **DEREN**: An autonomous AI research agent designed to deeply investigate topics, organize knowledge relationally, and automate workflows.
 
 ---
 
